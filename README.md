@@ -8,3 +8,5 @@ Possuo habilidades com:
 - React Native
 - HTML5
 - CSS3
+
+[![image info](./assets/linkedin-brands.svg)](https://www.linkedin.com/in/wesleyadriann/)
