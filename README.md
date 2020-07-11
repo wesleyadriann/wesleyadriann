@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Ola sou Wesley, estou graduando em Ciências da Computação pelo IESB. Sou entusiasta por desenvolvimento front-end e um curioso explorador do python.
+Ola sou Wesley, estou graduando em ciência da computação pelo IESB e Desenvolvedor Frontend na Orbit Labs.    
 Possuo habilidades com:
 - Javascript
 - Python
