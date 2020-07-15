@@ -1,17 +1,53 @@
-### Olá 👋
+### WesleyAdriann@github:~$ npm init react-app my-profile
 
-Ola sou Wesley, estou graduando em ciência da computação pelo IESB e Desenvolvedor Frontend na Orbit Labs.    
-#### Habilidades
+```jsx
+import React from 'react';
 
-- Javascript
-- Python
-- ReactJs
-- React Native
-- HTML5
-- CSS3
+const App = () => (
+    <>
+        <header>
+            <h1> Wesley Adriann </h1>
+            <h2> Front-end Developer </h2>
+        </header>
+        <main> 
+            <h3>Code</h3>
+            <ul>
+                <li>Javascript</li>
+                <li>Python</li>
+                <li>Typescript</li>
+            </ul>
+            <h3>Tools</h3>
+            <ul>
+                <li>ReactJs</li>
+                <li>React Native</li>
+                <li>Redux</li>
+                <li>Docker</li>
+                <li>Git</li>
+            </ul>
+        </main>
+        <footer>
+            <h3> Contacts </h3>
+            <ul>
+                <li>
+                    <a href="https://www.linkedin.com/in/wesleyadriann/">
+                        Linkedin - /in/wesleyadriann
+                    </a>
+                </li>
+                <li>
+                    <a href="https://github.com/wesleyadriann">
+                        Github - /wesleyadriann
+                    </a>
+                </li>
+                <li>
+                    <a href="mailto:wesleyadriann@gmail.com">
+                        Email - wesleyadriann@gmail.com
+                    </a>
+                </li>
+            </ul>
 
-#### Contatos
-[<img src="https://github.com/WesleyAdriann/wesleyadriann/blob/master/assets/linkedin-brands.svg" width="40px" alt="Linkedin - /in/wesleyadriann" />](https://www.linkedin.com/in/wesleyadriann/)
-[<img src="https://github.com/WesleyAdriann/wesleyadriann/blob/master/assets/instagram-square-brands.svg" width="40px" alt="Instagram - @wesleyadriann" />](https://www.instagram.com/wesleyadriann/)
-[<img src="https://github.com/WesleyAdriann/wesleyadriann/blob/master/assets/github-square-brands.svg" width="40px" alt="Github - /wesleyadriann" />](https://github.com/wesleyadriann)
-[<img src="https://github.com/WesleyAdriann/wesleyadriann/blob/master/assets/envelope-square-solid.svg" width="40px" alt="Email - wesleyadriann@gmail.com" />](mailto:wesleyadriann@gmail.com)
+        </footer>
+    </>
+);
+
+export default App;
+```
