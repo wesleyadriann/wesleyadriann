@@ -10,19 +10,19 @@ const App = () => (
             <h2> Front-end Developer </h2>
         </header>
         <main> 
-            <h3>Code</h3>
+            <h3> Code </h3>
             <ul>
-                <li>Javascript</li>
-                <li>Python</li>
-                <li>Typescript</li>
+                <li> Javascript </li>
+                <li> Python </li>
+                <li> Typescript </li>
             </ul>
-            <h3>Tools</h3>
+            <h3> Tools </h3>
             <ul>
-                <li>ReactJs</li>
-                <li>React Native</li>
-                <li>Redux</li>
-                <li>Docker</li>
-                <li>Git</li>
+                <li> ReactJs </li>
+                <li> React Native </li>
+                <li> Redux </li>
+                <li> Docker </li>
+                <li> Git </li>
             </ul>
         </main>
         <footer>
