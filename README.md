@@ -39,6 +39,11 @@ const App = () => (
                     </a>
                 </li>
                 <li>
+                    <a href="https://gitlab.com/wesleyadriann">
+                        Gitlab - /wesleyadriann
+                    </a>
+                </li>
+                <li>
                     <a href="mailto:wesleyadriann@gmail.com">
                         Email - wesleyadriann@gmail.com
                     </a>
