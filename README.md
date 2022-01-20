@@ -4,7 +4,7 @@
     "name": "Wesley Adriann",
     "position": "Front-end Developer",
     "code": ["javascript", "typescript", "python"],
-    "tools": ["reactjs", "react native", "redux", "docker", "git"],
+    "tools": ["reactjs", "react native", "redux", "docker", "git", "jest", "testing library"],
     "others": ["html", "css", "scrum", "kanban"],
     "contacts": {
         "linkedin": "/in/wesleyadriann",
