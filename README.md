@@ -33,6 +33,8 @@
 
 <p align="center">
     <a href="https://github.com/wesleyadriann">
-        <img src="https://wakatime.com/share/@wesleyadriann/123a3251-cedf-491f-9c08-f2aab774581e.svg"  alt="Wakatime"/>
+        <img src="https://wakatime.com/share/@wesleyadriann/782f0641-6daf-40b8-a3a0-e9e41076d543.svg"  alt="Wakatime"/>
     </a>
 </p>
+
+
