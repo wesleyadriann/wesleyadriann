@@ -3,8 +3,17 @@
 {
     "name": "Wesley Adriann",
     "position": "Front-end Developer",
-    "code": ["javascript", "typescript", "python"],
-    "tools": ["reactjs", "react native", "redux", "docker", "git", "jest", "testing library"],
+    "code": ["javascript", "typescript", "python", "rust"],
+    "tools": [
+        "reactjs/nextjs",
+        "react native",
+        "redux/redux-toolkit",
+        "docker",
+        "git",
+        "jest",
+        "testing library",
+        "module federation"
+    ],
     "others": ["html", "css", "scrum", "kanban"],
     "contacts": {
         "linkedin": "/in/wesleyadriann",
