@@ -15,6 +15,7 @@
         "module federation"
     ],
     "others": ["html", "css", "scrum", "kanban"],
+    "learning": ["backend", "rust"],
     "contacts": {
         "linkedin": "/in/wesleyadriann",
         "github": "/wesleyadriann",
