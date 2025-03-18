@@ -29,7 +29,7 @@
 
 <p align="center">
     <a href="https://github.com/wesleyadriann">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=wesleyadriann&theme=dark&date_format=j%20M%5B%20Y%5D"  alt="GitHub Streak"/>
+        <img src="https://streak-stats.demolab.com/?user=wesleyadriann&theme=dark&date_format=n%2Fj%5B%2FY%5D"  alt="GitHub Streak"/>
     </a>
 </p>
 
