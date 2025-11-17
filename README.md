@@ -2,7 +2,7 @@
 ```json
 {
     "name": "Wesley Adriann",
-    "position": "Front-end Developer",
+    "position": "Software Developerr",
     "code": ["javascript", "typescript", "python", "rust"],
     "tools": [
         "reactjs/nextjs",
@@ -12,7 +12,9 @@
         "git",
         "jest",
         "testing library",
-        "module federation"
+        "module federation",
+        "node",
+        "express"
     ],
     "others": ["html", "css", "scrum", "kanban"],
     "learning": ["backend", "rust"],
