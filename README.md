@@ -1,4 +1,4 @@
-### WesleyAdriann@github:~$ vi my_profile.json
+### wesleyadriann@github:~$ vi my_profile.json
 ```json
 {
     "name": "Wesley Adriann",
