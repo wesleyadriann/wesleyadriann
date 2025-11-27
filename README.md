@@ -17,7 +17,7 @@
         "express"
     ],
     "others": ["html", "css", "scrum", "kanban"],
-    "learning": ["backend", "rust"],
+    "learning": ["backend", "rust", "java"],
     "contacts": {
         "linkedin": "/in/wesleyadriann",
         "github": "/wesleyadriann",
