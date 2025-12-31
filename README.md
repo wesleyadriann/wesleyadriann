@@ -1,9 +1,9 @@
-### wesleyadriann@github:~$ vi my_profile.json
+### wesleyadriann@github:~$ vim my_profile.json
 ```json
 {
     "name": "Wesley Adriann",
     "position": "Software Developer",
-    "code": ["javascript", "typescript", "python", "rust"],
+    "code": ["typescript", "javascript", "rust", "python"],
     "tools": [
         "reactjs/nextjs",
         "react native",
@@ -14,7 +14,8 @@
         "testing library",
         "module federation",
         "node",
-        "express"
+        "express",
+        "nestjs"
     ],
     "others": ["html", "css", "scrum", "kanban"],
     "learning": ["backend", "rust", "java"],
@@ -30,6 +31,12 @@
 <hr />
 
 <p align="center">
+   <a href="https://wakatime.com/@wesleyadriann">
+       <img src="https://wakatime.com/badge/user/32d7b922-a4e7-4183-9d7a-bced0ae07cff.svg" alt="Total time coded since Jan 2 2023" />
+   </a>
+</p>
+
+<p align="center">
     <a href="https://github.com/wesleyadriann">
         <img src="https://streak-stats.demolab.com/?user=wesleyadriann&theme=dark&date_format=n%2Fj%5B%2FY%5D"  alt="GitHub Streak"/>
     </a>
@@ -43,9 +50,8 @@
 </p>
 
 
-
 <p align="center">
-    <a href="https://github.com/wesleyadriann">
+    <a href="https://wakatime.com/@wesleyadriann">
         <img src="https://wakatime.com/share/@wesleyadriann/782f0641-6daf-40b8-a3a0-e9e41076d543.svg"  alt="Wakatime"/>
     </a>
 </p>
