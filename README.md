@@ -2,7 +2,6 @@
 ```json
 {
     "name": "Wesley Adriann",
-    "position": "Software Engineer",
     "code": ["typescript", "javascript", "rust", "python"],
     "tools": [
         "reactjs/nextjs",
